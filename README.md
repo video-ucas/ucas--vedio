@@ -19,3 +19,5 @@ Things you may want to cover:
     #####1. nodejs
     #####1. yarn 1.22.10
 启动之前 bundle install，然后rails s，
+
+测试修改与提交
